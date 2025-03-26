@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariak15
+- 👋 Hi, I’m Maria Khatoon!
 - 👀 I’m passionate about Machine Learning, Deep Learning and Artificial Intelligence.
 - 🌱 Currently learning advanced AI architectures like Transformers, GANs, and LLMs.
 - 💞️ Looking to collaborate on AI research, NLP, and Computer Vision projects.
